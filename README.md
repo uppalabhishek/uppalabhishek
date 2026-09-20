@@ -28,10 +28,10 @@ sites globally.
 
 ## Repositories
 
-- **[aec-design-automation](https://github.com/uppalabhishek/aec-design-automation)** —
-  clean-room examples of the automation patterns above, built against public APIs with
-  synthetic data. Employer work stays where it belongs; the techniques are demonstrated here
-  from scratch.
+- **[wap-designer](https://github.com/uppalabhishek/wap-designer)** —
+  browser-based wireless access point layout designer for multi-floor warehouses. Place APs
+  by grid, linear, staggered or perimeter patterns over an uploaded floor plan, then export
+  to PNG or Excel. [Live demo](https://uppalabhishek.github.io/wap-designer/).
 
 ## Credentials
 
