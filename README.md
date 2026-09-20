@@ -2,7 +2,7 @@
 
 **Design technologist in the built environment** — I automate the parts of BIM delivery that
 teams otherwise do by hand. Architect by training, thirteen years in AEC across India, Qatar,
-Dubai and United Kingdom.
+Dubai, Luxembourg and Scotland.
 
 Currently a BIM Telecom Designer at Amazon, where I build Revit and construction-cloud
 automation for warehouse telecom infrastructure and lead design across new-build and retrofit
