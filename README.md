@@ -4,7 +4,7 @@
 teams otherwise do by hand. Architect by training, thirteen years in AEC across India, Qatar,
 Dubai, Luxembourg and Scotland.
 
-Currently a BIM Telecom Designer at Amazon, where I build Revit and construction-cloud
+Currently a BIM Standards and automation manager at Amazon, where I build Revit and construction-cloud
 automation for warehouse telecom infrastructure and lead design across new-build and retrofit
 sites globally.
 
