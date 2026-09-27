@@ -36,6 +36,10 @@ sites globally.
   browser-based file search for Autodesk Construction Cloud projects. Find projects by site
   code, filter and sort their Project Files, select files and push them to a chosen ACC
   project folder. [Live demo](https://uppalabhishek.github.io/acc-file-search/).
+- **[qa-qc-dashboard](https://github.com/uppalabhishek/qa-qc-dashboard)** —
+  BIM QA/QC dashboard for multi-discipline projects. Tracks overall compliance, model QA/QC
+  checks, LOI, LOD and MIDP delivery, alongside clash detection, ACC design review issues and
+  stakeholder activity. [Live demo](https://uppalabhishek.github.io/qa-qc-dashboard/).
 
 ## Credentials
 
