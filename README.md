@@ -47,7 +47,7 @@ sites globally.
 - Project Management Professional (PMP)
 - ISO 19650 BIM Information Practitioner — BRE
 - Council of Architecture (COA), India — licentiate member
-- B.Arch — Uttarakhand Technical University
+- Bachelor of Architecture (B.Arch)
 - Workato Professional Level 2
 
 ## Selected project history
