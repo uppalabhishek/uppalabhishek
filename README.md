@@ -1,8 +1,6 @@
 # Abhishek Uppal
 
-**Design technologist in the built environment** — I automate the parts of BIM delivery that
-teams otherwise do by hand. Architect by training, thirteen years in AEC across India, Qatar,
-Dubai, Luxembourg and UK.
+**Technical Program Manager & Design Technologist** — I run the programs that change how BIM gets delivered: I set the standards and build the tools that automate the manual parts. I trained as an architect and have spent thirteen years in AEC across India, the Middle East and Europe.
 
 Currently a BIM Standards and automation manager at Amazon, where I build Revit and construction-cloud
 automation for warehouse telecom infrastructure and lead design across new-build and retrofit
