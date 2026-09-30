@@ -34,7 +34,7 @@ sites globally.
   BIM QA/QC dashboard for multi-discipline projects. Tracks overall compliance, model QA/QC
   checks, LOI, LOD and MIDP delivery, alongside clash detection, ACC design review issues and
   stakeholder activity. [Live demo](https://uppalabhishek.github.io/qa-qc-dashboard/).
-  - **[wap-designer](https://github.com/uppalabhishek/wap-designer)** —
+- **[wap-designer](https://github.com/uppalabhishek/wap-designer)** —
   browser-based wireless access point layout designer for multi-floor warehouses. Place APs
   by grid, linear, staggered or perimeter patterns over an uploaded floor plan, then export
   to PNG or Excel. [Live demo](https://uppalabhishek.github.io/wap-designer/).
