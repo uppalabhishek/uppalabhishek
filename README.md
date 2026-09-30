@@ -26,10 +26,6 @@ sites globally.
 
 ## Repositories
 
-- **[wap-designer](https://github.com/uppalabhishek/wap-designer)** —
-  browser-based wireless access point layout designer for multi-floor warehouses. Place APs
-  by grid, linear, staggered or perimeter patterns over an uploaded floor plan, then export
-  to PNG or Excel. [Live demo](https://uppalabhishek.github.io/wap-designer/).
 - **[acc-file-search](https://github.com/uppalabhishek/acc-file-search)** —
   browser-based file search for Autodesk Construction Cloud projects. Find projects by site
   code, filter and sort their Project Files, select files and push them to a chosen ACC
@@ -38,6 +34,10 @@ sites globally.
   BIM QA/QC dashboard for multi-discipline projects. Tracks overall compliance, model QA/QC
   checks, LOI, LOD and MIDP delivery, alongside clash detection, ACC design review issues and
   stakeholder activity. [Live demo](https://uppalabhishek.github.io/qa-qc-dashboard/).
+  - **[wap-designer](https://github.com/uppalabhishek/wap-designer)** —
+  browser-based wireless access point layout designer for multi-floor warehouses. Place APs
+  by grid, linear, staggered or perimeter patterns over an uploaded floor plan, then export
+  to PNG or Excel. [Live demo](https://uppalabhishek.github.io/wap-designer/).
 - **[aps-lab](https://github.com/uppalabhishek/aps-lab)** —
   BIM delivery products built on Autodesk Platform Services. Documents the ACC, Automation API,
   Model Derivative and AEC Data Model APIs behind each product, with architecture, auth
