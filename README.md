@@ -54,5 +54,5 @@ sites globally.
 
 ## Selected project history
 
-Doha Metro (Qatar) · Expo 2020 (Dubai) · Grand Theatre, Rabat (Morocco) ·
-Amala Village (Saudi Arabia) · Amazon warehouse network (global)
+Amazon warehouse network (global) · Doha Metro (Qatar) · Expo 2020 (Dubai) · Grand Theatre, Rabat (Morocco) ·
+Amala Village (Saudi Arabia)
